@@ -1,0 +1,5 @@
+C:\Users\chiaf\OneDrive\Documents\GitHub\portfolio\OrderMgtServer\OrderMgtServer\bin\OrderMgtServer.dll
+C:\Users\chiaf\OneDrive\Documents\GitHub\portfolio\OrderMgtServer\OrderMgtServer\bin\OrderMgtServer.pdb
+C:\Users\chiaf\OneDrive\Documents\GitHub\portfolio\OrderMgtServer\OrderMgtServer\obj\Debug\OrderMgtServer.dll
+C:\Users\chiaf\OneDrive\Documents\GitHub\portfolio\OrderMgtServer\OrderMgtServer\obj\Debug\OrderMgtServer.pdb
+C:\Users\chiaf\OneDrive\Documents\GitHub\portfolio\OrderMgtServer\OrderMgtServer\obj\Debug\OrderMgtServer.csprojResolveAssemblyReference.cache
